@@ -1,0 +1,253 @@
+2017-05-26 10:11:39: [PM2][WORKER] Started with refreshing interval: 30000
+2017-05-26 10:11:39: [[[[ PM2/God daemon launched ]]]]
+2017-05-26 10:11:39: BUS system [READY] on port /home/monometic/.pm2/pub.sock
+2017-05-26 10:11:39: RPC interface [READY] on port /home/monometic/.pm2/rpc.sock
+2017-05-26 10:11:39: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-26 10:11:39: App name:start id:0 online
+2017-05-27 02:45:02: App [start] with id [0] and pid [24254], exited with code [1] via signal [SIGINT]
+2017-05-27 02:45:02: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-27 02:45:02: App name:start id:0 online
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [748], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: Proc is not defined anymore or is being killed
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [759], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [760], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [761], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [762], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [763], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [764], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [765], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [766], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [767], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [768], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [769], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [770], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [771], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [772], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Starting execution sequence in -fork mode- for app name:stop id:1
+2017-05-29 04:39:12: App name:stop id:1 online
+2017-05-29 04:39:12: App [stop] with id [1] and pid [773], exited with code [1] via signal [SIGINT]
+2017-05-29 04:39:12: Script /sbin/stop had too many unstable restarts (16). Stopped. "errored"
+2017-05-29 04:39:38: 27491 : id unknown
+2017-05-29 04:39:52: Stopping app:start id:0
+2017-05-29 04:39:52: App [start] with id [0] and pid [27491], exited with code [0] via signal [SIGINT]
+2017-05-29 04:39:59: Stopping app:stop id:1
+2017-05-29 04:40:09: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-29 04:40:09: App name:start id:0 online
+2017-05-29 04:40:21: Stopping app:start id:0
+2017-05-29 04:40:21: App [start] with id [0] and pid [2442], exited with code [0] via signal [SIGINT]
+2017-05-29 04:43:04: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-29 04:43:04: App name:start id:0 online
+2017-05-29 13:45:01: App [start] with id [0] and pid [7189], exited with code [1] via signal [SIGINT]
+2017-05-29 13:45:01: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-29 13:45:02: App name:start id:0 online
+2017-05-30 09:08:37: Stopping app:start id:0
+2017-05-30 09:08:37: App [start] with id [0] and pid [15144], exited with code [0] via signal [SIGINT]
+2017-05-31 04:55:28: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 04:55:28: App name:start id:0 online
+2017-05-31 12:46:06: Stopping app:start id:0
+2017-05-31 12:46:06: App [start] with id [0] and pid [10556], exited with code [0] via signal [SIGINT]
+2017-05-31 12:58:08: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 12:58:08: App name:start id:0 online
+2017-05-31 13:34:55: Stopping app:start id:0
+2017-05-31 13:34:55: App [start] with id [0] and pid [13282], exited with code [0] via signal [SIGINT]
+2017-05-31 13:35:01: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 13:35:01: App name:start id:0 online
+2017-05-31 17:09:41: App [start] with id [0] and pid [32217], exited with code [1] via signal [SIGINT]
+2017-05-31 17:09:41: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:09:41: App name:start id:0 online
+2017-05-31 17:09:49: App [start] with id [0] and pid [5308], exited with code [1] via signal [SIGINT]
+2017-05-31 17:09:49: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:09:49: App name:start id:0 online
+2017-05-31 17:09:55: App [start] with id [0] and pid [5524], exited with code [1] via signal [SIGINT]
+2017-05-31 17:09:55: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:09:55: App name:start id:0 online
+2017-05-31 17:10:03: App [start] with id [0] and pid [5664], exited with code [1] via signal [SIGINT]
+2017-05-31 17:10:03: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:10:03: App name:start id:0 online
+2017-05-31 17:10:08: App [start] with id [0] and pid [5828], exited with code [1] via signal [SIGINT]
+2017-05-31 17:10:08: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:10:08: App name:start id:0 online
+2017-05-31 17:10:13: App [start] with id [0] and pid [5933], exited with code [1] via signal [SIGINT]
+2017-05-31 17:10:13: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:10:13: App name:start id:0 online
+2017-05-31 17:10:26: App [start] with id [0] and pid [6058], exited with code [1] via signal [SIGINT]
+2017-05-31 17:10:26: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:10:26: App name:start id:0 online
+2017-05-31 17:11:40: App [start] with id [0] and pid [6386], exited with code [1] via signal [SIGINT]
+2017-05-31 17:11:40: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:11:40: App name:start id:0 online
+2017-05-31 17:11:52: App [start] with id [0] and pid [7972], exited with code [1] via signal [SIGINT]
+2017-05-31 17:11:52: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:11:52: App name:start id:0 online
+2017-05-31 17:12:03: App [start] with id [0] and pid [8291], exited with code [1] via signal [SIGINT]
+2017-05-31 17:12:03: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:12:03: App name:start id:0 online
+2017-05-31 17:12:09: App [start] with id [0] and pid [8576], exited with code [1] via signal [SIGINT]
+2017-05-31 17:12:09: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:12:09: App name:start id:0 online
+2017-05-31 17:12:27: App [start] with id [0] and pid [8695], exited with code [1] via signal [SIGINT]
+2017-05-31 17:12:27: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:12:27: App name:start id:0 online
+2017-05-31 17:14:24: App [start] with id [0] and pid [9140], exited with code [1] via signal [SIGINT]
+2017-05-31 17:14:24: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:14:24: App name:start id:0 online
+2017-05-31 17:17:42: App [start] with id [0] and pid [11807], exited with code [1] via signal [SIGINT]
+2017-05-31 17:17:42: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:17:42: App name:start id:0 online
+2017-05-31 17:18:16: App [start] with id [0] and pid [16381], exited with code [1] via signal [SIGINT]
+2017-05-31 17:18:16: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:18:16: App name:start id:0 online
+2017-05-31 17:18:23: App [start] with id [0] and pid [17223], exited with code [1] via signal [SIGINT]
+2017-05-31 17:18:23: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:18:23: App name:start id:0 online
+2017-05-31 17:19:43: App [start] with id [0] and pid [17359], exited with code [1] via signal [SIGINT]
+2017-05-31 17:19:43: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:19:43: App name:start id:0 online
+2017-05-31 17:19:50: App [start] with id [0] and pid [19153], exited with code [1] via signal [SIGINT]
+2017-05-31 17:19:50: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:19:50: App name:start id:0 online
+2017-05-31 17:23:36: App [start] with id [0] and pid [19345], exited with code [1] via signal [SIGINT]
+2017-05-31 17:23:36: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:23:36: App name:start id:0 online
+2017-05-31 17:26:52: App [start] with id [0] and pid [24361], exited with code [1] via signal [SIGINT]
+2017-05-31 17:26:52: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:26:52: App name:start id:0 online
+2017-05-31 17:32:37: App [start] with id [0] and pid [28876], exited with code [1] via signal [SIGINT]
+2017-05-31 17:32:37: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:32:37: App name:start id:0 online
+2017-05-31 17:33:13: App [start] with id [0] and pid [4057], exited with code [1] via signal [SIGINT]
+2017-05-31 17:33:13: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:33:13: App name:start id:0 online
+2017-05-31 17:33:20: App [start] with id [0] and pid [4788], exited with code [1] via signal [SIGINT]
+2017-05-31 17:33:20: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:33:20: App name:start id:0 online
+2017-05-31 17:33:24: App [start] with id [0] and pid [4954], exited with code [1] via signal [SIGINT]
+2017-05-31 17:33:24: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:33:24: App name:start id:0 online
+2017-05-31 17:39:58: App [start] with id [0] and pid [5048], exited with code [1] via signal [SIGINT]
+2017-05-31 17:39:58: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:39:58: App name:start id:0 online
+2017-05-31 17:40:21: App [start] with id [0] and pid [13113], exited with code [1] via signal [SIGINT]
+2017-05-31 17:40:21: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:40:22: App name:start id:0 online
+2017-05-31 17:41:04: App [start] with id [0] and pid [13636], exited with code [1] via signal [SIGINT]
+2017-05-31 17:41:04: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:41:04: App name:start id:0 online
+2017-05-31 17:41:14: App [start] with id [0] and pid [14495], exited with code [1] via signal [SIGINT]
+2017-05-31 17:41:14: Starting execution sequence in -fork mode- for app name:start id:0
+2017-05-31 17:41:14: App name:start id:0 online
+2017-06-01 06:03:05: App [start] with id [0] and pid [14713], exited with code [1] via signal [SIGINT]
+2017-06-01 06:03:05: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:03:05: App name:start id:0 online
+2017-06-01 06:04:18: App [start] with id [0] and pid [6073], exited with code [1] via signal [SIGINT]
+2017-06-01 06:04:18: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:04:18: App name:start id:0 online
+2017-06-01 06:04:35: App [start] with id [0] and pid [7821], exited with code [1] via signal [SIGINT]
+2017-06-01 06:04:35: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:04:35: App name:start id:0 online
+2017-06-01 06:04:58: App [start] with id [0] and pid [8270], exited with code [1] via signal [SIGINT]
+2017-06-01 06:04:58: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:04:58: App name:start id:0 online
+2017-06-01 06:05:28: App [start] with id [0] and pid [8860], exited with code [1] via signal [SIGINT]
+2017-06-01 06:05:28: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:05:28: App name:start id:0 online
+2017-06-01 06:05:58: App [start] with id [0] and pid [9728], exited with code [1] via signal [SIGINT]
+2017-06-01 06:05:58: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:05:58: App name:start id:0 online
+2017-06-01 06:06:28: App [start] with id [0] and pid [10410], exited with code [1] via signal [SIGINT]
+2017-06-01 06:06:28: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:06:28: App name:start id:0 online
+2017-06-01 06:55:35: Stopping app:start id:0
+2017-06-01 06:55:35: App [start] with id [0] and pid [11181], exited with code [0] via signal [SIGINT]
+2017-06-01 06:55:42: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 06:55:42: App name:start id:0 online
+2017-06-01 12:00:02: App [start] with id [0] and pid [21802], exited with code [1] via signal [SIGINT]
+2017-06-01 12:00:02: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 12:00:02: App name:start id:0 online
+2017-06-01 13:18:28: Stopping app:start id:0
+2017-06-01 13:18:28: App [start] with id [0] and pid [24779], exited with code [0] via signal [SIGINT]
+2017-06-01 13:21:46: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 13:21:46: App name:start id:0 online
+2017-06-01 13:22:16: Stopping app:start id:0
+2017-06-01 13:22:16: App [start] with id [0] and pid [17087], exited with code [0] via signal [SIGINT]
+2017-06-01 14:35:38: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 14:35:38: App name:start id:0 online
+2017-06-01 14:36:00: App [start] with id [0] and pid [1301], exited with code [1] via signal [SIGINT]
+2017-06-01 14:36:00: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 14:36:00: App name:start id:0 online
+2017-06-01 14:36:14: App [start] with id [0] and pid [1869], exited with code [1] via signal [SIGINT]
+2017-06-01 14:36:14: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 14:36:14: App name:start id:0 online
+2017-06-01 14:36:20: App [start] with id [0] and pid [2244], exited with code [1] via signal [SIGINT]
+2017-06-01 14:36:20: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 14:36:20: App name:start id:0 online
+2017-06-01 14:36:26: App [start] with id [0] and pid [2396], exited with code [1] via signal [SIGINT]
+2017-06-01 14:36:26: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 14:36:26: App name:start id:0 online
+2017-06-01 16:31:47: App [start] with id [0] and pid [2558], exited with code [1] via signal [SIGINT]
+2017-06-01 16:31:47: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 16:31:47: App name:start id:0 online
+2017-06-01 16:53:32: App [start] with id [0] and pid [17866], exited with code [1] via signal [SIGINT]
+2017-06-01 16:53:32: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 16:53:32: App name:start id:0 online
+2017-06-01 16:53:38: App [start] with id [0] and pid [18850], exited with code [1] via signal [SIGINT]
+2017-06-01 16:53:38: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 16:53:38: App name:start id:0 online
+2017-06-01 16:53:42: App [start] with id [0] and pid [19031], exited with code [1] via signal [SIGINT]
+2017-06-01 16:53:42: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-01 16:53:42: App name:start id:0 online
+2017-06-02 04:36:50: Stopping app:start id:0
+2017-06-02 04:36:51: App [start] with id [0] and pid [19135], exited with code [0] via signal [SIGINT]
+2017-06-02 04:46:20: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 04:46:20: App name:start id:0 online
+2017-06-02 06:02:25: App [start] with id [0] and pid [13095], exited with code [1] via signal [SIGINT]
+2017-06-02 06:02:25: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:02:25: App name:start id:0 online
+2017-06-02 06:04:02: App [start] with id [0] and pid [7437], exited with code [1] via signal [SIGINT]
+2017-06-02 06:04:02: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:04:02: App name:start id:0 online
+2017-06-02 06:04:12: App [start] with id [0] and pid [10010], exited with code [1] via signal [SIGINT]
+2017-06-02 06:04:12: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:04:12: App name:start id:0 online
+2017-06-02 06:04:19: App [start] with id [0] and pid [10309], exited with code [1] via signal [SIGINT]
+2017-06-02 06:04:19: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:04:19: App name:start id:0 online
+2017-06-02 06:04:42: App [start] with id [0] and pid [10446], exited with code [1] via signal [SIGINT]
+2017-06-02 06:04:42: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:04:42: App name:start id:0 online
+2017-06-02 06:04:49: App [start] with id [0] and pid [11098], exited with code [1] via signal [SIGINT]
+2017-06-02 06:04:49: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-02 06:04:49: App name:start id:0 online
+2017-06-03 05:59:57: App [start] with id [0] and pid [11260], exited with code [1] via signal [SIGINT]
+2017-06-03 05:59:57: Starting execution sequence in -fork mode- for app name:start id:0
+2017-06-03 05:59:57: App name:start id:0 online

@@ -1,0 +1,751 @@
+Fri, 26 May 2017 10:11:41 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'length' of null
+    at /home/monometic/custom_modules/quotes/index.js:97:13
+    at /home/monometic/custom_modules/quotes/models/quotes.js:57:19
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/kareem/index.js:220:48
+    at /home/monometic/node_modules/kareem/index.js:131:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Sat, 27 May 2017 02:45:06 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+connection error { MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/topologies/server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+(node:27491) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+Mon, 29 May 2017 04:40:14 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Mon, 29 May 2017 04:43:06 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'length' of null
+    at /home/monometic/custom_modules/quotes/index.js:97:13
+    at /home/monometic/custom_modules/quotes/models/quotes.js:57:19
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/kareem/index.js:220:48
+    at /home/monometic/node_modules/kareem/index.js:131:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Mon, 29 May 2017 13:45:06 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+connection error { MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/topologies/server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+(node:15144) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+Wed, 31 May 2017 04:55:32 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Wed, 31 May 2017 12:58:14 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Wed, 31 May 2017 13:35:05 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:09:47 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:09:53 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:09:59 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:10:06 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:10:12 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:10:16 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:10:31 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:11:44 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:11:56 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:12:07 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:12:13 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:12:31 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:14:27 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:17:47 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:18:20 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:18:27 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:19:47 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:19:55 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:23:41 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:26:56 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:32:42 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:33:18 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:33:23 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:33:28 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:40:04 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:40:25 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:41:08 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Wed, 31 May 2017 17:41:19 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:03:09 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:04:21 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:04:38 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:05:01 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:05:31 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:06:02 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:48:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 06:06:33 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Thu, 01 Jun 2017 06:55:48 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'length' of null
+    at /home/monometic/custom_modules/quotes/index.js:97:13
+    at /home/monometic/custom_modules/quotes/models/quotes.js:57:19
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/kareem/index.js:220:48
+    at /home/monometic/node_modules/kareem/index.js:131:16
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 12:00:09 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+connection error { MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/topologies/server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+(node:24779) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+Thu, 01 Jun 2017 13:21:50 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Thu, 01 Jun 2017 14:35:40 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 14:36:03 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 14:36:17 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 14:36:24 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 14:36:29 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 16:31:52 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 16:53:35 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 16:53:41 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Error: Can't set headers after they are sent.
+    at ServerResponse.OutgoingMessage.setHeader (_http_outgoing.js:356:11)
+    at ServerResponse.header (/home/monometic/node_modules/express/lib/response.js:719:10)
+    at ServerResponse.json (/home/monometic/node_modules/express/lib/response.js:247:10)
+    at ServerResponse.send (/home/monometic/node_modules/express/lib/response.js:152:21)
+    at /home/monometic/custom_modules/quotes/index.js:28:42
+    at /home/monometic/custom_modules/quotes/models/quotes.js:33:14
+    at /home/monometic/node_modules/mongoose/lib/model.js:3753:16
+    at /home/monometic/node_modules/mongoose/lib/services/model/applyHooks.js:153:17
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Thu, 01 Jun 2017 16:53:46 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+Fri, 02 Jun 2017 04:46:25 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:02:31 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:04:05 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:04:16 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:04:24 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:04:47 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Fri, 02 Jun 2017 06:04:54 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+TypeError: Cannot read property 'split' of undefined
+    at Request._callback (/home/monometic/custom_modules/quotes/index.js:49:20)
+    at self.callback (/home/monometic/node_modules/request/request.js:188:22)
+    at emitOne (events.js:96:13)
+    at Request.emit (events.js:188:7)
+    at Request.onRequestError (/home/monometic/node_modules/request/request.js:884:8)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+    at Socket.socketErrorListener (_http_client.js:310:9)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+Sat, 03 Jun 2017 06:00:05 GMT body-parser deprecated undefined extended: provide extended option at app.js:70:30
+connection error { MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/topologies/server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/pool.js:274:12)
+    at Connection.g (events.js:291:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/monometic/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Socket.g (events.js:291:16)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at emitErrorNT (net.js:1276:8)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:122:9)
+  name: 'MongoError',
+  message: 'failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]' }
+(node:25501) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: failed to connect to server [localhost:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
